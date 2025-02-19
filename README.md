@@ -21,7 +21,7 @@ This project displays a real-time analog clock with smooth animations.
 ## 📂 Project Structure
 
 ```
-📁 analog-clock-app/
+📁 Analog-Clock/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 script.js        # JavaScript file for logic
